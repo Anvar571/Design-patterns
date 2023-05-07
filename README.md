@@ -3,20 +3,20 @@ design-patterns larni o'rganish va ular bilan pet projectlar qilish uchun bu rep
 
 
 design pattern
-    creational pattern
+   - creational pattern
         factory method
         abstract factory
         builder
         prototype
         singleton
-    structural pattern
+   - structural pattern
         adabter
         bridge
         composite
         decorator
         facade
         proxy
-    behavioral pattern
+   - behavioral pattern
         command
         iterator
         memento
