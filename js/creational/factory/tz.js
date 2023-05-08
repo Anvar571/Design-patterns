@@ -1,6 +1,6 @@
 // loyiha logistika(mahsulot yetkazib berish)
 
-// bizda faqatgina tasi orqali yetkazib berish xizmati bor edi kod ham shunga moz edi
+// bizda faqatgina taxsi orqali yetkazib berish xizmati bor edi, kod ham shunga mos edi
 // bir ozdan kiyin bir qancha xizmatlar qo'shildi(samaliyot, keyma, avtobus va boshqa)
 
 // muammo shundaki biz boshida yozgan kidimizga har safar yangi transport qo'shilganda unga kodga
@@ -50,3 +50,6 @@
  * Mavjud ob'ektlarni har safar qayta tiklash o'rniga ularni qayta ishlatish orqali tizim 
  * resurslarini tejashni istasangiz, zavod usulidan foydalaning.
  */
+
+
+// mashinalarni turi bo'licha saralaydigan ped project
