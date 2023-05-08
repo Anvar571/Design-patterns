@@ -46,10 +46,18 @@ class Truc extends CreateTransport {
     }
 }
 
+class Keyma extends CreateTransport {
+    constructor(name, year){
+        super(name, year)
+        this.type = "keyma"
+    }
+}
+
 const allTransports = [
     new Car("mers", "2001"), 
     new Truc("Truc"), 
-    new Pilot("airwais", "2017")
+    new Pilot("airwais", "2017"),
+    new Keyma("Dengiz keymasi", "2023")
 ]
 
 module.exports ={
