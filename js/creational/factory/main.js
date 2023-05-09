@@ -8,7 +8,12 @@ const {Deliver, Transport, Product} = require("./product");
 const client1 = new Deliver(
     new Transport("car", "truc", "2012"), 
     new Product("olma", "100", "meva"),
-    new Product("xurmo", "100", "meva")
+)
+
+const client2 = new Deliver(
+    new Transport("mustang", "pilot", 123),
+    new Product("Tarvuz", 5000, "meva")
 )
 
 console.log(client1.result());
+console.log(client2.result());
